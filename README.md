@@ -6,8 +6,8 @@ Data is preprocessed and data augmentation is applied. The ResNet model is used 
 At the end of this process, 69% acurracy is obtained on the test dataset and corresponding plots are shown.
 
 
-<img src="README/sample1.png">
+<img src="README/img1.png">
 <hr>
-<img src="README/sample2.png">
+<img src="README/img2.png">
 <hr>
-<img src="README/sample3.png">
+<img src="README/img3.png">
